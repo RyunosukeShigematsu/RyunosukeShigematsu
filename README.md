@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<br>
+<h1>Skills</h1>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,sass,tailwind,js,ts,materialui,react,vue,nodejs,nuxtjs,nextjs,nginx" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,django,fastapi,mysql,go,ruby,rails,php,vite,docker,firebase,dart,flutter" />
+  </a>
+</p>
