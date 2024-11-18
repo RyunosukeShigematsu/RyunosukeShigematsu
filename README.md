@@ -23,11 +23,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,react,vue,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,react,vue,nodejs,python,php,vite,npm,firebase" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,django,fastapi,mysql,go,ruby,rails,php,vite,docker,firebase,dart,flutter" />
-  </a>
-</p>
+
